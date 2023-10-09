@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-st.title('Uber pickups in Greater Noida')
+st.title('Uber pickups in Newyork')
 
 
 DATE_COLUMN = 'date/time'
